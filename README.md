@@ -21,7 +21,7 @@ When you start the application, you will see the instruction screen as shown bel
 
 Here is the main interface where you can import your CSV files and start transforming coordinates:
 
-![Main Interface](./images/welcome.png)
+![Main Interface](./images/new.png)
 
 ## Step 3: Input and Output
 
@@ -29,7 +29,7 @@ This is how the input data looks on the left, and after the transformation, the 
 
 ## Lastly
 
-![Transformation in Progress](./images/new.png)
+![Transformation in Progress](./images/left.png)
 
 
 ![Final Output](./images/left-right.png)
