@@ -1,7 +1,38 @@
 
+
+
+
 ## Datum transformation desktop app in Python
 Datum transformation GUI in python
 #### Dowload app over here - [D-converter](https://drive.google.com/file/d/14k3O5u54prEA36rBbre1kcu85TM51TSs/view?usp=sharing)
+
+
+### Datum Transformation Screenshots
+
+This guide demonstrates how to perform datum transformation using the Coordinate Converter application.
+
+## Step 1: Opening the Application
+
+When you start the application, you will see the instruction screen as shown below:
+
+![Instruction Screen](./images/welcome.png)
+
+## Step 2: Main Interface
+
+Here is the main interface where you can import your CSV files and start transforming coordinates:
+
+![Main Interface](./images/welcome.png)
+
+## Step 3: Input and Output
+
+This is how the input data looks on the left, and after the transformation, the output data is displayed on the right:
+
+## Lastly
+
+![Transformation in Progress](./images/new.png)
+
+
+![Final Output](./images/left-right.png)
 
 
 
