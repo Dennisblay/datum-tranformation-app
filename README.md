@@ -23,16 +23,23 @@ Here is the main interface where you can import your CSV files and start transfo
 
 ![Main Interface](./images/new.png)
 
+## Step 3: Input
+Here, the input data is loaded on the left. Choose crs of data and destination crs.
+
+![Input](./images/left.png)
+
 ## Step 3: Input and Output
 
 This is how the input data looks on the left, and after the transformation, the output data is displayed on the right:
 
+![Final Output](./images/left-right.png)
+
 ## Lastly
 
-![Transformation in Progress](./images/left.png)
+You can go ahead and download the results
 
 
-![Final Output](./images/left-right.png)
+
 
 
 
